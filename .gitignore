@@ -11,3 +11,5 @@ nbproject/Package-*
 # Proteus Backup Files
 *.workspace
 *.pdsbak
+
+ssid.h
